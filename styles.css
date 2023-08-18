@@ -2,9 +2,7 @@ main{
 	background-color:#f5f5f5;
 	padding:40px;
 }
-main>div.test>p{
-	font-weight:bold;
-}
+
 .test{
 	background-color:white;
 	border:1px solid black;
